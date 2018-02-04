@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="judul">Makan Malam</string>
+    <string name="milea">dengan Milea</string>
+    <string name="Uduk">Nasi Uduk</string>
+    <string name="Uduk1">2</string>
+    <string name="button2">ABNORMAL</string>
+    <string name="button">EATBUS</string>
+    <string name="sub1"> Eatbus </string>
+    <string name="harga">100000</string>
+    <string name="toast">Jangan disini makan malamnya, uang kamu tidak cukup</string>
+    <string name="harga1">60000</string>
+    <string name="toast1">Disini aja makan malamnya</string>
+</resources>
